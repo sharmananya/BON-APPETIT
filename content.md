@@ -114,7 +114,7 @@ Sign in
 iOS app
 Android app
 
-About Omnifood
+About BON-APPETITE
 For Business
 Cooking partners
 Careers
